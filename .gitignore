@@ -68,3 +68,8 @@ ArrayVariables/.local/AllDependencies.json
 ArrayVariables/.local/ArrayVariables.nuget.props
 ArrayVariables/.local/db/references.db
 ArrayVariables/.local/nuget.cache
+IfStatement/Main.xaml
+IfStatement/.local/nuget.cache
+ArrayVariables/.local/PackageCache.json
+ArrayVariables/.local/db/references.db
+IfStatement/.local/db/references.db
